@@ -1,0 +1,4 @@
+# Однакові LF-закінчення рядків у Windows і Unix (узгоджено з Prettier endOfLine: lf)
+* text=auto eol=lf
+*.svg text eol=lf
+*.png binary
